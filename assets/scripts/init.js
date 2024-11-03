@@ -171,6 +171,7 @@ const journalData = [
         buttonText: "Read",
         text: "",
     },
+    /* Immersion Days */
 ]
 
 // Loading Screen
